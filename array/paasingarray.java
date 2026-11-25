@@ -4,7 +4,7 @@ public class paasingarray {
     public static void main(String[] args) {
         int x[]= {4,5,10,33,21};
         System.out.println(x[2]);
-           change(x);
+         change(x);
         System.out.println(x[2]);
 
     
